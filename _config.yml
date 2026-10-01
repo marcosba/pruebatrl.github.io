@@ -101,7 +101,9 @@ theme: reimu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/marcosba/pruebatrl.github.io.git
+  branch: gh-pages
 
 feed:
   enable: true
@@ -116,9 +118,3 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
-
-# Deployment
-deploy:
-  type: git
-  repo: https://github.com/marcosba/pruebatrl.github.io.git
-  branch: gh-pages
