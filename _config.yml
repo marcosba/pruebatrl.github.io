@@ -116,3 +116,9 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+# Deployment
+deploy:
+  type: git
+  repo: https://github.com/marcosba/pruebatrl.github.io.git
+  branch: gh-pages
