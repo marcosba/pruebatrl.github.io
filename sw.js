@@ -6,7 +6,7 @@ const preCache = [
   "/pruebatrl.github.io/css/style.css",
   "/pruebatrl.github.io/js/script.js",
 ];
-const VERSION = "1790858852056";
+const VERSION = "1790859267454";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
